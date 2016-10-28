@@ -6,9 +6,8 @@ Conversions to and from string representations of number values
 ---
 
 ```
-    import "go-str2number"
+import "go-str2number"
 ```
-
 
 ## Usage
 
